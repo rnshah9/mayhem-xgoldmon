@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-xgoldmon
+target: xgoldmon
+
+cmds:
+  - cmd: /repo/xgoldmon @@
